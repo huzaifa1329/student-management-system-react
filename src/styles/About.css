@@ -1,0 +1,29 @@
+.about {
+  max-width: 800px;
+  margin: auto;
+}
+
+.about h1 {
+  color: var(--primary-dark);
+  margin-bottom: 20px;
+}
+
+.about p {
+  margin: 15px 0;
+  line-height: 1.8;
+  color: var(--text);
+}
+
+.about h3 {
+  margin-top: 30px;
+  color: var(--primary);
+}
+
+.about ul {
+  margin-top: 15px;
+  padding-left: 20px;
+}
+
+.about li {
+  margin-bottom: 10px;
+}
